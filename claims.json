@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "claimant": "Test Forest Area",
+        "type": "IFR",
+        "status": "Approved",
+        "district": "Mandla",
+        "village": "Kanha Buffer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [80.625, 22.333],   
+            [80.645, 22.333],   
+            [80.645, 22.353],   
+            [80.625, 22.353],   
+            [80.625, 22.333]    
+          ]
+        ]
+      }
+    }
+  ]
+}

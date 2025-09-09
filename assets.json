@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": { "asset": "NDVI", "value": 0.78 },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[77.4,28.6],[77.5,28.6],[77.5,28.7],[77.4,28.7],[77.4,28.6]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "asset": "NDWI", "value": 0.65 },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[77.1,28.55],[77.2,28.55],[77.2,28.65],[77.1,28.65],[77.1,28.55]]]
+        }
+      }
+    ]
+  }
+  
